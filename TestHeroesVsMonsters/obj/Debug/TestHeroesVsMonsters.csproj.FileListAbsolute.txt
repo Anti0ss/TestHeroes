@@ -1,0 +1,11 @@
+C:\Users\LOICM\Documents\Formation .Net\C#\Prof\HeroesVsMonsters\HeroesVsMonsters\TestHeroesVsMonsters\bin\Debug\TestHeroesVsMonsters.exe.config
+C:\Users\LOICM\Documents\Formation .Net\C#\Prof\HeroesVsMonsters\HeroesVsMonsters\TestHeroesVsMonsters\bin\Debug\TestHeroesVsMonsters.exe
+C:\Users\LOICM\Documents\Formation .Net\C#\Prof\HeroesVsMonsters\HeroesVsMonsters\TestHeroesVsMonsters\bin\Debug\TestHeroesVsMonsters.pdb
+C:\Users\LOICM\Documents\Formation .Net\C#\Prof\HeroesVsMonsters\HeroesVsMonsters\TestHeroesVsMonsters\bin\Debug\HeroesVsMonsters.dll
+C:\Users\LOICM\Documents\Formation .Net\C#\Prof\HeroesVsMonsters\HeroesVsMonsters\TestHeroesVsMonsters\bin\Debug\HeroesVsMonsters.pdb
+C:\Users\LOICM\Documents\Formation .Net\C#\Prof\HeroesVsMonsters\HeroesVsMonsters\TestHeroesVsMonsters\bin\Debug\HeroesVsMonsters.dll.config
+C:\Users\LOICM\Documents\Formation .Net\C#\Prof\HeroesVsMonsters\HeroesVsMonsters\TestHeroesVsMonsters\obj\Debug\TestHeroesVsMonsters.csprojAssemblyReference.cache
+C:\Users\LOICM\Documents\Formation .Net\C#\Prof\HeroesVsMonsters\HeroesVsMonsters\TestHeroesVsMonsters\obj\Debug\TestHeroesVsMonsters.csproj.CoreCompileInputs.cache
+C:\Users\LOICM\Documents\Formation .Net\C#\Prof\HeroesVsMonsters\HeroesVsMonsters\TestHeroesVsMonsters\obj\Debug\TestHeroesVsMonsters.csproj.CopyComplete
+C:\Users\LOICM\Documents\Formation .Net\C#\Prof\HeroesVsMonsters\HeroesVsMonsters\TestHeroesVsMonsters\obj\Debug\TestHeroesVsMonsters.exe
+C:\Users\LOICM\Documents\Formation .Net\C#\Prof\HeroesVsMonsters\HeroesVsMonsters\TestHeroesVsMonsters\obj\Debug\TestHeroesVsMonsters.pdb
