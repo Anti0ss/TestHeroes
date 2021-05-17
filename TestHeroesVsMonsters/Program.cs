@@ -12,7 +12,9 @@ namespace TestHeroesVsMonsters
         static void Main(string[] args)
         {
             int choix;
-
+            /*
+                My super comment!!!!
+            */
             Console.Write("Choix (1 = Humain, 2 = Nain) : ");
             while (!int.TryParse(Console.ReadLine(), out choix) || !(choix == 1 || choix == 2))
             {
